@@ -1685,7 +1685,7 @@ export const activities: Activity[] = [
     id: "a1",
     title: "Workshop: detectar oportunidades invisibles",
     category: "taller",
-    date_label: "18 mayo · 9:00 a 11:00",
+    date_label: "18 Julio a confirmar · 9:00 a 11:00",
     xp_reward: 120,
     status: "upcoming",
     description:
